@@ -43,12 +43,6 @@
 [submodule "plugin-id-ldap"]
 	path = plugin-id-ldap
 	url = https://github.com/ligoj/plugin-id-ldap
-[submodule "plugin-igit"]
-	path = plugin-igit
-	url = https://github.com/ligoj/plugin-id-ldap-embedded
-[submodule "plugin-git"]
-	path = plugin-git
-	url = https://github.com/ligoj/plugin-build
 [submodule "plugin-inbox-sql"]
 	path = plugin-inbox-sql
 	url = https://github.com/ligoj/plugin-inbox-sql
