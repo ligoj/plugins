@@ -115,3 +115,6 @@
 [submodule "plugin-menu-node"]
 	path = plugin-menu-node
 	url = https://github.com/ligoj/plugin-menu-node
+[submodule "plugin-prov-azure-csp"]
+	path = plugin-prov-azure-csp
+	url = https://github.com/ligoj/plugin-prov-azure-csp
