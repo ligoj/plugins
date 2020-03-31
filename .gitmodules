@@ -1,0 +1,129 @@
+[submodule "plugin-bt"]
+	path = plugin-bt
+	url = https://github.com/ligoj/plugin-bt
+[submodule "plugin-bt-jira"]
+	path = plugin-bt-jira
+	url = https://github.com/ligoj/plugin-bt-jira
+[submodule "plugin-build"]
+	path = plugin-build
+	url = https://github.com/ligoj/plugin-build
+[submodule "plugin-build-jenkins"]
+	path = plugin-build-jenkins
+	url = https://github.com/ligoj/plugin-build-jenkins
+[submodule "plugin-build-travis"]
+	path = plugin-build-travis
+	url = https://github.com/ligoj/plugin-build-travis
+[submodule "plugin-iam-node"]
+	path = plugin-iam-node
+	url = https://github.com/ligoj/plugin-iam-node
+[submodule "plugin-id"]
+	path = plugin-id
+	url = https://github.com/ligoj/plugin-id
+[submodule "plugin-id-cognito"]
+	path = plugin-id-cognito
+	url = https://github.com/ligoj/plugin-id-cognito
+[submodule "plugin-id-ldap"]
+	path = plugin-id-ldap
+	url = https://github.com/ligoj/plugin-id-ldap
+[submodule "plugin-id-sql"]
+	path = plugin-id-sql
+	url = https://github.com/ligoj/plugin-id-sql
+[submodule "plugin-id-ldap-embedded"]
+	path = plugin-id-ldap-embedded
+	url = https://github.com/ligoj/plugin-id-ldap-embedded
+[submodule "plugin-inbox-sql"]
+	path = plugin-inbox-sql
+	url = https://github.com/ligoj/plugin-inbox-sql
+[submodule "plugin-km"]
+	path = plugin-km
+	url = https://github.com/ligoj/plugin-km
+[submodule "plugin-km-confluence"]
+	path = plugin-km-confluence
+	url = https://github.com/ligoj/plugin-km-confluence
+[submodule "plugin-mail"]
+	path = plugin-mail
+	url = https://github.com/ligoj/plugin-mail
+[submodule "plugin-mail-smtp"]
+	path = plugin-mail-smtp
+	url = https://github.com/ligoj/plugin-mail-smtp
+[submodule "plugin-menu-node"]
+	path = plugin-menu-node
+	url = https://github.com/ligoj/plugin-menu-node
+[submodule "plugin-password"]
+	path = plugin-password
+	url = https://github.com/ligoj/plugin-password
+[submodule "plugin-prov"]
+	path = plugin-prov
+	url = https://github.com/ligoj/plugin-prov
+[submodule "plugin-prov-aws"]
+	path = plugin-prov-aws
+	url = https://github.com/ligoj/plugin-prov-aws
+[submodule "plugin-prov-azure"]
+	path = plugin-prov-azure
+	url = https://github.com/ligoj/plugin-prov-azure
+[submodule "plugin-prov-gcp"]
+	path = plugin-prov-gcp
+	url = https://github.com/ligoj/plugin-prov-gcp
+[submodule "plugin-prov-digitalocean"]
+	path = plugin-prov-digitalocean
+	url = https://github.com/ligoj/plugin-prov-digitalocean
+[submodule "plugin-cartography"]
+	path = plugin-cartography
+	url = https://github.com/ligoj/plugin-cartography
+[submodule "plugin-qa"]
+	path = plugin-qa
+	url = https://github.com/ligoj/plugin-qa
+[submodule "plugin-qa-sonarqube"]
+	path = plugin-qa-sonarqube
+	url = https://github.com/ligoj/plugin-qa-sonarqube
+[submodule "plugin-redirect"]
+	path = plugin-redirect
+	url = https://github.com/ligoj/plugin-redirect
+[submodule "plugin-req"]
+	path = plugin-req
+	url = https://github.com/ligoj/plugin-req
+[submodule "plugin-req-squash"]
+	path = plugin-req-squash
+	url = https://github.com/ligoj/plugin-req-squash
+[submodule "plugin-scm"]
+	path = plugin-scm
+	url = https://github.com/ligoj/plugin-scm
+[submodule "plugin-scm-git"]
+	path = plugin-scm-git
+	url = https://github.com/ligoj/plugin-scm-git
+[submodule "plugin-scm-github"]
+	path = plugin-scm-github
+	url = https://github.com/ligoj/plugin-scm-github
+[submodule "plugin-scm-svn"]
+	path = plugin-scm-svn
+	url = https://github.com/ligoj/plugin-scm-svn
+[submodule "plugin-security"]
+	path = plugin-security
+	url = https://github.com/ligoj/plugin-security
+[submodule "plugin-security-fortify"]
+	path = plugin-security-fortify
+	url = https://github.com/ligoj/plugin-security-fortify
+[submodule "plugin-sso-salt"]
+	path = plugin-sso-salt
+	url = https://github.com/ligoj/plugin-sso-salt
+[submodule "plugin-storage"]
+	path = plugin-storage
+	url = https://github.com/ligoj/plugin-storage
+[submodule "plugin-storage-owncloud"]
+	path = plugin-storage-owncloud
+	url = https://github.com/ligoj/plugin-storage-owncloud
+[submodule "plugin-vm"]
+	path = plugin-vm
+	url = https://github.com/ligoj/plugin-vm
+[submodule "plugin-vm-aws"]
+	path = plugin-vm-aws
+	url = https://github.com/ligoj/plugin-vm-aws
+[submodule "plugin-vm-azure"]
+	path = plugin-vm-azure
+	url = https://github.com/ligoj/plugin-vm-azure
+[submodule "plugin-vm-google"]
+	path = plugin-vm-google
+	url = https://github.com/ligoj/plugin-vm-google
+[submodule "plugin-vm-vcloud"]
+	path = plugin-vm-vcloud
+	url = https://github.com/ligoj/plugin-vm-vcloud
