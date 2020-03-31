@@ -7,9 +7,6 @@
 [submodule "plugin-prov-azure"]
 	path = plugin-prov-azure
 	url = https://github.com/ligoj/plugin-prov-azure
-[submodule "plugin-prov-google"]
-	path = plugin-prov-google
-	url = https://github.com/ligoj/plugin-prov-google
 [submodule "plugin-vm"]
 	path = plugin-vm
 	url = https://github.com/ligoj/plugin-vm
