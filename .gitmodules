@@ -127,3 +127,6 @@
 [submodule "plugin-vm-vcloud"]
 	path = plugin-vm-vcloud
 	url = https://github.com/ligoj/plugin-vm-vcloud
+[submodule "plugin-prov-outscale"]
+	path = plugin-prov-outscale
+	url = https://github.com/ligoj/plugin-prov-outscale.git
