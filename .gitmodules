@@ -130,3 +130,6 @@
 [submodule "plugin-prov-outscale"]
 	path = plugin-prov-outscale
 	url = https://github.com/ligoj/plugin-prov-outscale.git
+[submodule "plugin-prov-fe"]
+	path = plugin-prov-fe
+	url = https://github.com/ligoj/plugin-prov-fe
