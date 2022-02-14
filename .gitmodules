@@ -133,3 +133,6 @@
 [submodule "plugin-prov-fe"]
 	path = plugin-prov-fe
 	url = https://github.com/ligoj/plugin-prov-fe
+[submodule "plugin-prov-ovh"]
+	path = plugin-prov-ovh
+	url = https://github.com/ligoj/plugin-prov-ovh
